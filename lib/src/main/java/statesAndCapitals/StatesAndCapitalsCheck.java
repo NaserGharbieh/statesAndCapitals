@@ -391,7 +391,7 @@ public class StatesAndCapitalsCheck
                 || !stateNameToCapitalNamesMap.get("Washington").equals("Olympia"))
             isMapCorrect = false;
 
-         // 30 done
+        // 30 done
 
         if (stateNameToCapitalNamesMap.get("Nebraska") == null
                 || !stateNameToCapitalNamesMap.get("Nebraska").equals("Lincoln"))
